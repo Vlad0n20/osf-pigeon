@@ -4,4 +4,4 @@ internetarchive==1.9.9
 ratelimit==2.2.1
 requests==2.25.1
 aiohttp==3.8.3
-sentry-sdk==0.14.4
+sentry-sdk==2.55.0
